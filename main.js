@@ -37,3 +37,10 @@ const copiar = ()=>{
  alert(`O texto copiado é: ${txt.value}`)
 } )
 }
+
+
+
+
+
+
+//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
